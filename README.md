@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nik-31
-- 👀 I’m interested in Front End Development and Android Development
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning React JS
 - 📫 Reach me at: https://www.linkedin.com/in/nik31kumar
 
